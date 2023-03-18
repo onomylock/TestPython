@@ -1,0 +1,7 @@
+необходимые пакеты:
+                    sqlite3
+                    dadata
+                    os.path
+                    httpx
+
+моя версия Python: Python 3.9.1
